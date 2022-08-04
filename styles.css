@@ -1,3 +1,7 @@
+.container {
+  margin-top: 20%;
+}
+
 /*  Below is for the animated background  */
 .bg {
     animation:slide 3s ease-in-out infinite alternate;
